@@ -22,6 +22,7 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
+        <script src="index.js"></script>
     </head>
     
     
@@ -39,5 +40,14 @@
         </div>
         
     </body>
+    <script>
+    document.onkeydown = function(evt) {
+    evt = evt || window.event;
+    if (evt.keyCode == 32) {
+        var box = document.getElementById("messageBox");
+        box.style.visibility="hidden";
+    }
+    };
+    </script>
 
 </html>
