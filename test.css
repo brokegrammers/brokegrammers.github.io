@@ -3,7 +3,7 @@ h1 {
     text-align: center;
 }
 body{
-    background-image: url("https://i.pinimg.com/originals/d4/c1/7d/d4c17d48d9e0a5ac9986887163f435ec.jpg") repat-x top;
+    background-image: url("https://i.pinimg.com/originals/d4/c1/7d/d4c17d48d9e0a5ac9986887163f435ec.jpg") repeat-x top;
     color: #D3D3D3;
    padding: 0;
   margin: 0;
