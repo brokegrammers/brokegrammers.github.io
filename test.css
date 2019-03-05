@@ -208,7 +208,7 @@ html {
 .topnav .dropdown-content a:hover {background-color: #ddd;}
 
 /* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {display: block;}
+.topnav .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .topnav.dropdown:hover .dropbtn {background-color: #3e8e41;}
