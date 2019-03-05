@@ -172,7 +172,7 @@ html {
   color: white;
 }
 /* Dropdown Button */
-.topnav .dropbtn {
+.topnav .dropdown .dropbtn {
   background-color: #4CAF50;
   color: white;
   padding: 16px;
