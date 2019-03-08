@@ -148,6 +148,7 @@ html {
 .topnav {
   background-color: #003366;
   overflow: hidden;
+  position: fixed;
 }
 
 /* Style the links inside the navigation bar */
@@ -158,6 +159,7 @@ html {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  
 }
 
 /* Change the color of links on hover */
