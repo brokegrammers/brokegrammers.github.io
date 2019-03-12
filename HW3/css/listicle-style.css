@@ -1,0 +1,151 @@
+/**
+ TODO(you): Write the CSS necessary to complete HW1!
+*/
+
+.top {
+    background-image: url("../images/header.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 500px;
+    background-image: linear-gradient(rgba(0, 0, 0, .3),rgba(0, 0, 0, .3)), url(../images/header.jpg);
+}
+.underAvatar{
+    width: 100%;
+    text-align: center;
+
+}
+#boldName{
+    font-weight: bold;
+    font-style: normal;
+}
+.name{
+    position: relative;
+    width: 300px;
+    font-size: 18pt ;
+    border-bottom: 2px solid #e6e6e6;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 10px;
+    line-height: 24px;
+    text-align: center;
+    margin: auto;
+    font-style: italic;
+    margin-bottom: 50px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(51, 51, 51);
+    margin-bottom: 0px;
+    
+}
+
+hr{
+    height: 2px;
+    width: 270px;
+    color: #e6e6e6;
+}
+.parTitle{
+    position: relative;
+    height: 80px;
+}
+.text{
+    font-size: 18pt;
+    color:  rgb(51, 51, 51) ;
+    margin: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 32px;
+}
+
+li{
+    color: rgba(0, 0, 0, 0.25);
+    font-size: 30pt;
+    padding-left: 30px;
+    margin-left: 0px;
+}
+.titleDef {
+    color: rgb(51, 51, 51);
+    font-size: 36pt;
+    padding: 2px;
+    font-weight: bold;
+    margin: auto;
+    font-family: 'Roboto Slab', serif;
+}
+.uT{
+    margin: -20px;
+    padding: 0px 2px 2px 20px;
+    
+}
+.underTitle{
+    
+    color: #42b4d6;
+    font-size: 14pt;   
+}
+.underTitle:link{
+    text-decoration: none;
+    font-style: normal;
+}
+.underTitle:hover{
+    text-decoration: underline;
+}
+
+#title{
+    position: relative;
+    width: 780px;
+    margin: auto;
+	color: white;
+    font-size: 36px;
+	text-align: center;
+    top: 40%;
+    font-family: 'Roboto Slab', serif;
+    font-weight: normal;
+    top: 40%;
+    
+}
+.spacer120{
+    height: 120px;
+}
+.spacer20{
+    height: 20px;
+}
+div{
+    width: 100%;
+    margin: 0px;
+}
+#imgContainer{
+    width: 100%;
+}
+.data{
+    margin-top: 0px;
+    padding-right: 15%;
+    padding-left: 15%;
+    width: 66%;
+    
+}
+ol{
+    padding-inline-start: 10px;
+}
+
+#endImg{
+    width:100%;
+    text-align: center;
+    margin: auto;
+    
+}
+
+#person{
+    position: relative;
+    margin-top: -45px;
+    text-align: center;
+    
+    
+}
+#avatar{
+    width: 100px;
+    border: 1px solid white;
+    border-radius: 100%;
+
+}
+#spacer{
+    height: 60px;
+}
