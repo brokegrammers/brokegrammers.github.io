@@ -218,23 +218,23 @@ html {
 
 /*** Mozilla based browsers ***/
 ::-moz-selection {
-    background-color: #352e7e;
+    background-color: yellow;
     color: #fff;
 }
 
 /***For Other Browsers ***/
 ::-o-selection {
-    background-color: #352e7e;
+    background-color: yellow;
     color: #fff;
 }
 
 ::-ms-selection {
-    background-color: #352e7e;
+    background-color: yellow;
     color: #fff;
 }
 
 /*** For Webkit ***/
 ::-webkit-selection {
-    background-color: #352e7e;
+    background-color: yellow;
     color: #fff;
 }
