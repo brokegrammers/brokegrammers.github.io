@@ -216,3 +216,25 @@ html {
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
 
+/*** Mozilla based browsers ***/
+::-moz-selection {
+    background-color: #352e7e;
+    color: #fff;
+}
+
+/***For Other Browsers ***/
+::-o-selection {
+    background-color: #352e7e;
+    color: #fff;
+}
+
+::-ms-selection {
+    background-color: #352e7e;
+    color: #fff;
+}
+
+/*** For Webkit ***/
+::-webkit-selection {
+    background-color: #352e7e;
+    color: #fff;
+}
