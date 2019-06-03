@@ -1,0 +1,76 @@
+h1 {
+  
+    text-align: center;
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/d4/c1/7d/d4c17d48d9e0a5ac9986887163f435ec.jpg");
+  background-size: cover;
+	 background-repeat: no-repeat;
+	 background-attachment: fixed;
+	 background-position:center; 
+	height: 100vh;
+	width: 100vh;
+	text-align:center;
+	padding:10px;
+	font-family:'Roboto Slab' !important;
+    color: #D3D3D3;
+   
+}
+
+
+
+.nav-link{
+	
+	color:white;
+}
+
+
+.nav-item{
+	margin:8px;
+	border:solid 2px transparent !important;
+	
+}
+.nav-item:hover {
+	color:white !important;
+	border:solid 2px white !important;
+	background-color: rgba(0, 0, 0, 0) !important;
+	border-radius: 25px !important;
+	
+	
+}
+
+.dropdown-toggle{
+	color:white !important;
+	
+	background-color: rgba(0, 0, 0, 0) !important;
+		
+}
+
+.active{
+	color:white !important;
+	background-color: rgba(0, 0, 0, 0) !important;
+	font-weight:bold;
+}
+.nav-link:hover{
+	color:white !important;	
+}
+.dropdown-menu{
+	background-color: #cc0000 !important;
+	
+	
+}
+.dropdown-item{
+	color:white !important;		
+	border-left: solid 5px transparent !important;
+}
+.dropdown-item:hover{
+	
+	padding-left:35px !important; 
+	border-left-color: 	white !important;
+	background-color: #cc0000 !important;
+}
+.extra{
+	display:hidden;
+}
+
+
