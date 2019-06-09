@@ -22,10 +22,11 @@ body{
 }
 .container{
 	text-align:center;
+	position:relative !important;
 }
 
 .nav-link{
-	
+	position:relative !;
 	color:white;
 }
 
@@ -134,11 +135,14 @@ body{
 .nav{
 	margin-right: 55px !important; 
 	background-color:#303030;
-	position:fixed;
+	position:relative;
+	
 }
 .dropdown-item{
 	
 	color:white !important;
 }
-
+.container{
+	margin-top:20px !important;
+}
 }
